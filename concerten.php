@@ -17,7 +17,7 @@
         </div>
     </header>
     <nav>
-        <a href="sum41page.html">Home</a>
+        <a href="sum41page.html">Home van Niels BABY</a>
         <a href="">About us</a>
         <a href="discografie.html">Discografie</a>
         <a href="concerten.php">Concerts</a>
